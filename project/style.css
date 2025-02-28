@@ -5,3 +5,12 @@ color: aliceblue;
 body{
     background-image: url("images.jpeg");
 }
+
+
+#fotosp{
+padding-right: 10%;
+border-color: white;
+border-style: dotted;
+border-width: 10%;
+
+}
