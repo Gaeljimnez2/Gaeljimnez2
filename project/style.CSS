@@ -9,10 +9,62 @@ div{
     
     #fotosp{
     padding-right: 10%;
-   border-color: white;
-    border-style: dotted;
+   border-color: rgba(172, 41, 41, 0.788);
+    border-style: dashed;
     border-width: 5px;
     width: 160px;
     position: absolute;
     right: 80px;
     }
+    
+
+    h1{ 
+            font-family: "Metal Mania", system-ui;
+            font-weight: 400;
+            font-style: normal;     
+    }
+
+
+h2{
+    font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+
+#spidermanGIF{
+    width: 300px;
+   position: fixed;
+   left: 0px;
+    bottom: 0px;
+}
+
+
+#miras{
+    border-style: ;
+border-color: rgba(124, 23, 23, 0.781);
+
+}
+
+#malos{
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0,
+      "XELA" 0,
+      "YELA" 0;
+}
+
+
+#juegos{
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   color: rgba(255, 7, 7, 0.822);
+}
